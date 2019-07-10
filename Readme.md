@@ -5,7 +5,7 @@ This is project is from Figure Eight, which provided us the real data that were 
 
 ## Folder Structure
 
-![alt text](C:\Work\Learnings\Online Courses\Data Scientist Nano Degree Program\Data Engineering\results\FolderStructure.PNG "Folder Structure")
+![alt text](results/FolderStructure.PNG "Folder Structure")
 
 
 
