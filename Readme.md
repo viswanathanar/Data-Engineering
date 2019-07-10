@@ -1,15 +1,15 @@
 # Disaster Response Pipeline Project
 
 ## Project Description
-This is project from Figure Eight, which provided us the real data that were sent during . Data contains messages sent during the disasters and the responses categorized into 36 pre-defined categories. With the given data, we need to first build an ETL pipeline which pre-processes, cleans the data and stores them into a SQL database. Then we build a machine learning pipeline to classify messages. There are 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help, Search And Rescue, etc. By classifying these messages, we can allow these messages to be sent to the appropriate disaster relief agency.
+This is project is from Figure Eight, which provided us the real data that were sent during disaster. Data contains messages sent during the disasters and the responses categorized into 36 pre-defined categories. With the given data, we need to first build an ETL pipeline which pre-processes, cleans the data and stores them into a SQL database. Then we build a machine learning pipeline to classify messages. There are 36 pre-defined categories, which includes Aid Related, Medical Help, Search And Rescue, etc. By classifying these messages, we can allow these messages to be sent to the appropriate disaster relief agency.
 
 ## File Description
   app
   |-----__pycache__/run.cpython-37.pyc
   |-----run.py
   |-----templates
-		|-----go.html
-		|-----master.html
+        |-----go.html
+        |-----master.html
   |-----test.py
   data
   |-----DisasterResponse.db
