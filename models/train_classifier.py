@@ -74,35 +74,6 @@ def tokenize(text):
     return clean_tokens
 
 
-def tokenize(text):
-    """
-    Tokenization involves 4 main steps:
-    Replacing non-numeric and non-alphabets
-    Tokenzation of words
-    Lemmatization of tokenized words to its root form
-    Stripping of white spaceand finally returns an array of stemmed tokens
-    """
-    # replace all non-alphabets / non-numbers with blank space
-    text = re.sub(r"[^a-zA-Z0-9]", " ", text.lower())
-    # Tokenize words
-    tokens = word_tokenize(text)
-    # instantiate lemmatizer
-    lemmatizer = WordNetLemmatizer()
-    # instantiate stemmer
-    stemmer = PorterStemmer()
-    clean_tokens = []
-    for tok in tokens:
-        # lemmatize token using noun as part of speech
-        clean_tok = lemmatizer.lemmatize(tok)
-        # lemmatize token using verb as part of speech
-        clean_tok = lemmatizer.lemmatize(clean_tok, pos='v')
-        # stem token
-        clean_tok = stemmer.stem(clean_tok)
-        # strip whitespace and append clean token to array
-        clean_tokens.append(clean_tok.strip())
-    return clean_tokens
-
-
 def build_model():
     '''
     input:
