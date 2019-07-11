@@ -36,6 +36,6 @@
 </li>
 </ol>
 <h2 id="screenshots-from-webapp">Screenshots from Webapp</h2>
-<p><img alt="Image1" src="C:/Users/viswanathan.a/Desktop/1.jpg"></p>
+<p><img alt="Image1" src="https://picasaweb.google.com/101849111503236856741/6712258754549055681#6712258754032606770"></p>
 <h2 id="references">References</h2>
 
