@@ -7,6 +7,8 @@ This is project is from Figure Eight, which provided us the real data that were 
 
 ![Folder Structure](FolderStructure.png)
 
+![image Info](file:///C:/Work/Learnings/Online Courses/Data Scientist Nano Degree Program/Data Engineering/FolderStructure.PNG "FolderStructure")
+
 ## Instruction
 *To run ETL pipeline that cleans data and stores in database: 
 python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db*
