@@ -36,6 +36,6 @@
 </li>
 </ol>
 <h2 id="screenshots-from-webapp">Screenshots from Webapp</h2>
-<p><img alt="enter image description here" src="C:/Users/viswanathan.a/Desktop/1.jpg"></p>
+<p>![Image 1](file:///C:/Users/viswanathan.a/Desktop/1.jpg)</p>
 <h2 id="references">References</h2>
 
