@@ -5,7 +5,7 @@ This is project is from Figure Eight, which provided us the real data that were 
 
 ## Folder Structure
 
-![Folder Structure](./FolderStructure.PNG)
+![Folder Structure](FolderStructure.png)
 
 ## Instruction
 *To run ETL pipeline that cleans data and stores in database: 
