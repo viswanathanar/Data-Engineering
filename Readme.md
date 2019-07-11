@@ -5,7 +5,7 @@ This is project is from Figure Eight, which provided us the real data that were 
 
 ## Folder Structure
 
-![](/FolderStructure.PNG)
+![alt text](file://FolderStructure.PNG))
 
 
 ## Instruction
