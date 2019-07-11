@@ -7,7 +7,7 @@
 <h2 id="project-description">Project Description</h2>
 <p>This is project is from Figure Eight, which provided us the real data that were sent during the disaster. Data contains messages sent during the disasters and the responses categorized into 36 pre-defined categories. With the given data, we need to first build an ETL pipeline which pre-processes, cleans the data and stores them into a SQL database. Then we build a machine learning pipeline to classify messages. There are 36 pre-defined categories, which includes Aid Related, Medical Help, Search And Rescue, etc. By classifying these messages, we can allow these messages to be sent to the appropriate disaster relief agency.</p>
 <h2 id="folder-structure">Folder Structure</h2>
-<p>![File Structure](file:///C:/Users/viswanathan.a/Desktop/FolderStructure.PNG)</p>
+<p>![File Structure](file:///C:/Users/viswanathan.a/Desktop/FolderStructure.jpeg)</p>
 <h2 id="file-description">File Description</h2>
 <ol>
 <li>disaster_message.csv: Contains the original disaster messages</li>
@@ -36,9 +36,6 @@
 </li>
 </ol>
 <h2 id="screenshots-from-webapp">Screenshots from Webapp</h2>
-<p><img alt="enter image description here" src="C:%5CWork%5CLearnings%5COnline%20Courses%5CData%20Scientist%20Nano%20Degree%20Program%5CData%20Engineering%5Cresults%5Cnewplot%20%281%29.png"></p>
-<p><img alt="enter image description here" src="C:%5CWork%5CLearnings%5COnline%20Courses%5CData%20Scientist%20Nano%20Degree%20Program%5CData%20Engineering%5Cresults%5Cnewplot%20%282%29.png"></p>
-<p><img alt="enter image description here" src="C:%5CWork%5CLearnings%5COnline%20Courses%5CData%20Scientist%20Nano%20Degree%20Program%5CData%20Engineering%5Cresults%5Cnewplot%20%283%29.png"></p>
-<p><img alt="enter image description here" src="C:%5CWork%5CLearnings%5COnline%20Courses%5CData%20Scientist%20Nano%20Degree%20Program%5CData%20Engineering%5Cresults%5CWebapp-Screenshot.PNG"></p>
+<p><img alt="enter image description here" src="C:/Users/viswanathan.a/Desktop/1.jpg"></p>
 <h2 id="references">References</h2>
 
